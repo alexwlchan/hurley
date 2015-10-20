@@ -3,8 +3,8 @@ import json
 
 from hurley.dijkstra import Graph
 
-
-with open("data.json") as f:
+import os
+with open("/var/www/six-degrees-of-myke/hurley/data.json") as f:
     data = json.loads(f.read())
 
 pairings = set()
