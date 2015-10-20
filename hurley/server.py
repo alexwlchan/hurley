@@ -44,3 +44,7 @@ def hello_world():
 @app.route('/about')
 def about():
     return render_template('about.html', title="About")
+
+@app.route('/privacy')
+def privacy():
+    return render_template('privacy.html', title="Privacy")

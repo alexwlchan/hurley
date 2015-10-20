@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>Privacy policy</h3>
+
+<p>I use <a href="https://piwik.org">Piwik</a> to provide basic analytics for <code>six-degrees-of-myke.net</code>.</p>
+
+<p>Piwik is a piece of software that records data about people who visit the site. It installs a cookie to record basic tracking data.</p>
+
+<h4>What information does Piwik record?</h4>
+
+<p>For a full list, see <a href="http://piwik.org/faq/general/#faq_18254">What data does Piwik track?</a> on the Piwik support site.</p>
+
+<p>I only record the default information collected by the Piwik JavaScript tracker. I don’t use any of the optional add-ons.</p>
+
+<p>I can't see which podcast pairs you're looking up.</p>
+
+<h4>What gets done with the data?</h4>
+
+<p>I’m only interested in two bits of information:</p>
+
+<ul>
+<li>How many people are looking at the site</li>
+<li>How you reached my site (referrals)</li>
+</ul>
+
+<p>Mostly this is a vanity thing – I just like seeing how many people are visiting my sites.</p>
+
+<p>I use the self-hosted version of Piwik, which means the data is stored only on my server. It’s not shared with Piwik or other third-parties (such as advertisers). I don’t run advertising on the site, tracking-enabled or otherwise.</p>
+
+<h4>I want to opt out.</h4>
+
+<p>Quoting from the <a href="http://piwik.org/privacy/">Piwik Privacy page</a>:</p>
+
+<blockquote style="font-size: 14px;">
+<p><strong>Opting out of all data collection</strong></p>
+
+<p>To opt-out of all web tracking technologies (including Google Analytics and Piwik), using an extension such as <a href="https://addons.mozilla.org/en-US/firefox/addon/noscript/">Noscript</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/ghostery/">Ghostery</a> is the safest way: these browser extensions will disable all the known JavaScript trackers and ensure that your browser does not send a request to external tracking servers. If you wish to browse the Internet without your IP address being tracked at all, please consider using Tor Browser which will automatically connect you to the secured and anonymous Tor network.</p>
+</blockquote>
+
+<p>If you don’t want to install a browser plugin, you can use the opt-out option below. This will set an opt-out cookie in your browser, which tells Piwik to ignore your visits:</p>
+
+<iframe style="border: 1px solid black; height: 200px; width: 600px;" src="http://alexwlchan.net/analytics/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
+
+
+{% endblock %}
