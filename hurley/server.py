@@ -40,3 +40,7 @@ def hello_world():
                            src=form.src.data,
                            dst=form.dst.data,
                            result=result)
+
+@app.route('/about')
+def about():
+    return render_template('about.html', title="About")

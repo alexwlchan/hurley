@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <title>Six Degrees of Myke Hurley{% if title %} - {{ title }}{% endif %}</title>
+
+    <style>
+    .navbar {
+        border-radius: 0px;
+    }
+
+    form, select {
+        text-align: center;
+        font-size: 14pt;
+    }
+
+    @media (min-width: 500px) {
+        .form-control {
+            max-width: 60%;
+            margin-left:  auto;
+            margin-right: auto;
+        }
+    }
+
+    .result {
+        font-size: 12pt;
+    }
+
+    </style>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Six Degrees of Myke Hurley</a>
+        </div>
+      </div><!-- /.container-fluid -->
+    </nav>
+
+    <div class="container">
+
+        {% block content %}
+        {% endblock %}
+    </div>
+
+</body>
+
+</html>
