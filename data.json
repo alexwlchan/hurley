@@ -1,7 +1,7 @@
 {
     "Analog(ue)": [
-        "Casey Liss",
-        "Myke Hurley"
+    	"Myke Hurley",
+        "Casey Liss"
     ],
     "ATP": [
         "Casey Liss",
@@ -9,34 +9,76 @@
         "Marco Arment"
     ],
     "BONANZA!": [
-        "Casey Liss",
-        "Myke Hurley"
+    	"Matt Alexer",
+    	"Myke Hurley"
     ],
     "Clockwise": [
-        "Dan Moren",
-        "Jason Snell"
+    	"Jason Snell",
+    	"Dan Moren"
     ],
     "Connected": [
-        "Federico Viticci",
-        "Myke Hurley",
-        "Stephen Hackett"
+    	"Federico Viticci",
+    	"Myke Hurley",
+    	"Stephen Hackett"
     ],
     "Cortex": [
-        "Myke Hurley",
-        "CGP Grey"
+    	"CGP Grey",
+    	"Myke Hurley"
     ],
     "Hello Internet": [
         "Brady Haran",
         "CGP Grey"
     ],
+    "Inquisitive": [
+    	"Myke Hurley"
+    ],
     "Isometric": [
-        "Brianna Wu",
-        "Georgia Dow",
-        "Maddy Myers",
-        "Steve Lubitz"
+    	"Brianna Wu",
+    	"Georgia Dow",
+    	"Maddy Myers",
+    	"Steve Lubitz"
     ],
     "Liftoff": [
-        "Jason Snell",
-        "Stephen Hackett"
+    	"Jason Snell",
+    	"Stephen Hackett"
+    ],
+    "Mac Power Users": [
+    	"David Sparks",
+    	"Katie Floyd"
+    ],
+    "Material": [
+    	"Andy Ihnatko",
+    	"Russell Ivanovic",
+    	"Yasmine Evjen"
+    ],
+    "Reconcilable Differences": [
+    	"John Siracusa",
+    	"Merlin Mann"
+    ],
+    "Rocket": [
+        "Brianna Wu",
+    	"Christina Warren",
+    	"Simone De Rochefort"
+    ],
+    "The Pen Addict": [
+        "Myke Hurley",
+        "Brad Dowdy"
+    ],
+    "Thoroughly Considered": [
+        "Dan Provost",
+        "Myke Hurley",
+        "Tom Gerhardt"
+    ],
+    "Top Four": [
+        "Marco Arment",
+        "Tiffany Arment"
+    ],
+    "Upgrade": [
+        "Myke Hurley",
+        "Jason Snell"
+    ],
+    "Virtual": [
+        "Myke Hurley",
+        "Federico Viticci"
     ]
 }
