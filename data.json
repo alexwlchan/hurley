@@ -1,8 +1,25 @@
 {
+    "Analog(ue)": [
+        "Casey Liss",
+        "Myke Hurley"
+    ],
     "ATP": [
         "Casey Liss",
         "John Siracusa",
         "Marco Arment"
+    ],
+    "BONANZA!": [
+        "Casey Liss",
+        "Myke Hurley"
+    ],
+    "Clockwise": [
+        "Dan Moren",
+        "Jason Snell"
+    ],
+    "Connected": [
+        "Federico Viticci",
+        "Myke Hurley",
+        "Stephen Hackett"
     ],
     "Cortex": [
         "Myke Hurley",
@@ -11,5 +28,15 @@
     "Hello Internet": [
         "Brady Haran",
         "CGP Grey"
+    ],
+    "Isometric": [
+        "Brianna Wu",
+        "Georgia Dow",
+        "Maddy Myers",
+        "Steve Lubitz"
+    ],
+    "Liftoff": [
+        "Jason Snell",
+        "Stephen Hackett"
     ]
 }
