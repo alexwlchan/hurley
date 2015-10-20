@@ -9,7 +9,7 @@
         "Marco Arment"
     ],
     "BONANZA!": [
-    	"Matt Alexer",
+    	"Matt Alexander",
     	"Myke Hurley"
     ],
     "Clockwise": [
@@ -32,6 +32,10 @@
     "Inquisitive": [
     	"Myke Hurley"
     ],
+    "IRL Talk": [
+        "Faith Korpi",
+        "Jason Seifer"
+    ]
     "Isometric": [
     	"Brianna Wu",
     	"Georgia Dow",
@@ -80,5 +84,159 @@
     "Virtual": [
         "Myke Hurley",
         "Federico Viticci"
+    ],
+    "Amplified": [
+    	"Jim Dalrymple",
+    	"Dan Benjamin"
+    ],
+    "The Awkward Human Survival Guide": [
+    	"Adam Dachis",
+    	"Darren Herczeg",
+    	"Erica Elson",
+    	"Richard Cardenas"
+    ],
+    "Back to Work": [
+    	"Merlin Mann",
+    	"Dan Benjamin"
+    ],
+    "Bingeworthy: Mr. Robot": [
+    	"Haddie Cooke",
+    	"Maggie Ball",
+    	"Dan Benjamin"
+    ],
+    "Cash’s Corner": [
+    	"Cash Benjamin",
+    	"Dan Benjamin"
+    ],
+    "The Changelog": [
+    	"Adam Stacoviak",
+    	"Jerod Santo"
+    ],
+    "The Critical Path": [
+    	"Anders  Brownworth",
+    	"Horace Dediu"
+    ],
+    "Diagnostics &amp; Usage": [
+    	"Cody Coats",
+    	"Joe Caiati"
+    ],
+    "DLC": [
+    	"Christian Spicer",
+    	"Jeff Cannata"
+    ],
+    "The Frequency": [
+    	"Haddie Cooke",
+    	"Dan Benjamin"
+    ],
+    "Home Work": [
+    	"Aaron Mahnke",
+    	"Dave Caolo"
+    ],
+    "The Ihnatko Almanac": [
+    	"Andy Ihnatko",
+    	"Dan Benjamin"
+    ],
+    "iOhYes": [
+    	"Chad Etzel",
+    	"Darryl Thomas",
+    	"John Sextro",
+    	"Nolan O’Brien"
+    ],
+    "On Taking Pictures": [
+    	"Bill Wadman",
+    	"Jeffery Saddoris"
+    ],
+    "On the Grid": [
+    	"Andy Mangold",
+    	"Dan Auer",
+    	"Matt McInerney"
+    ],
+    "Puromac": [
+    	"Federico Hatoum",
+    	"Flavio Guinsburg"
+    ],
+    "Road Work": [
+    	"John Roderick",
+    	"Dan Benjamin"
+    ],
+    "Ruby on Rails Podcast": [
+    	"Kyle Daigle",
+    	"Sean Devine"
+    ],
+    "The Web Ahead": [
+    	"Jen Simmons"
+    ],
+    "Write For Your Life": [
+    	"Donna Sørensen",
+    	"Iain Broome"
+    ],
+    "The B&B Podcast": [
+    	"Ben Brooks",
+    	"Shawn Blanc"
+    ],
+    "Bionic": [
+    	"Matt Alexander",
+    	"Myke Hurley"
+    ],
+    "Build and Analyze": [
+    	"Marco Arment",
+    	"Dan Benjamin"
+    ],
+    "The Comic Shack": [
+    	"Moisés Chiullan",
+    	"Dan Benjamin"
+    ],
+    "Comics, Assembled!": [
+    	"Brian  Ward",
+    	"Thom Zahler"
+    ],
+    "Directional": [
+    	"Federico Viticci",
+    	"Myke Hurley"
+    ],
+    "EE Podcast": [
+    	"Lea Alcantara",
+    	"Ryan Irelan"
+    ],
+    "Geek Friday": [
+    	"Faith Korpi",
+    	"Jason Seifer"
+    ],
+    "Getting There": [
+    	"Liz Furl",
+    	"Sara Stewart"
+    ],
+    "Hypercritical": [
+    	"John Siracusa",
+    	"Dan Benjamin"
+    ],
+    "In Beta": [
+    	"Christie Koehler",
+    	"Kevin Purdy"
+    ],
+    "Internet Outrage Machine": [
+    	"Jordan Cooper",
+    	"Kyle Roderick"
+    ],
+    "Overtired": [
+    	"Brett Terpstra",
+    	"Christina Warren"
+    ],
+    "The Pen Addict": [
+    	"Brad Dowdy",
+    	"Myke Hurley"
+    ],
+    "The Prompt": [
+    	"Federico Viticci",
+    	"Myke Hurley",
+    	"Stephen Hackett"
+    ],
+    "The Talk Show": [
+    	"John Gruber",
+    	"Dan Benjamin"
+    ],
+    "Workflowing": [
+    	"Michael Schechter",
+    	"Mike Vardy"
     ]
 }
