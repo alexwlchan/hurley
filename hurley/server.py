@@ -9,7 +9,7 @@ from hurley.podcasts import pairings, podcasters, graph, find_links
 
 app = Flask(__name__)
 app.config['WTF_CSRF_ENABLED'] = True
-app.config['SECRET_KEY'] = 'test secret key'
+app.config['SECRET_KEY'] = 'no really tis must dosidhksjdfgnvkyjrhmstbgnemr,test secret key'
 
 
 MYCACHE = {}
