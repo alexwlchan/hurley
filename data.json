@@ -8,13 +8,30 @@
         "John Siracusa",
         "Marco Arment"
     ],
+    "Bizarre States": [
+        "Andrew Bowser",
+        "Jessica Chobot"
+    ],
     "BONANZA!": [
     	"Matt Alexander",
     	"Myke Hurley"
     ],
+    "Chewin' It": [
+        "Kevin Heffernan",
+        "Steve Lemme"
+    ],
     "Clockwise": [
     	"Jason Snell",
     	"Dan Moren"
+    ],
+    "Clonecast: The Official Orphan Black Podcast": [
+        "Mackenzie Donaldson",
+        "Rob Moden"
+    ],
+    "Comic Book Club": [
+        "Alex Zalben",
+        "Justin Tyler",
+        "Pete LePage"
     ],
     "Connected": [
     	"Federico Viticci",
@@ -24,6 +41,14 @@
     "Cortex": [
     	"CGP Grey",
     	"Myke Hurley"
+    ],
+    "Dining with Doug and Karen": [
+        "Doug Benson",
+        "Karen Anderson"
+    ],
+    "FEaB": [
+        "Matt Mira",
+        "Scott Mosier"
     ],
     "Hello Internet": [
         "Brady Haran",
@@ -39,6 +64,10 @@
     	"Maddy Myers",
     	"Steve Lubitz"
     ],
+    "James Bonding": [
+        "Matt Gourley",
+        "Matt Mira"
+    ],
     "Liftoff": [
     	"Jason Snell",
     	"Stephen Hackett"
@@ -47,6 +76,25 @@
     	"Andy Ihnatko",
     	"Russell Ivanovic",
     	"Yasmine Evjen"
+    ],
+    "Mike and Tom Eat Snacks": [
+        "Michael Ian Black",
+        "Tom Cavanagh"
+    ],
+    "Nerdist Comics Panel": [
+        "Adam Beechen",
+        "Ben Blacker",
+        "Heath Corson",
+        "Len Wein"
+    ],
+    "Nerdist Podcast": [
+        "Chris Hardwick",
+        "Jonah Ray",
+        "Matt Mira"
+    ],
+    "Pop My Culture": [
+        "Cole Stratton",
+        "Vanessa Ragland"
     ],
     "Reconcilable Differences": [
     	"John Siracusa",
@@ -57,6 +105,18 @@
     	"Christina Warren",
     	"Simone De Rochefort"
     ],
+    "Terrified": [
+        "Anna Seregina",
+        "Dave Ross"
+    ],
+    "The Indoor Kids": [
+        "Emily V Gordon",
+        "Kumail Nanjiani"
+    ],
+    "The Legacy Music Hour": [
+        "Brent Weinbach",
+        "Rob F."
+    ],
     "The Pen Addict": [
         "Myke Hurley",
         "Brad Dowdy"
@@ -65,6 +125,14 @@
         "Dan Provost",
         "Myke Hurley",
         "Tom Gerhardt"
+    ],
+    "Thrilling Adventure Hour": [
+        "Ben Acker",
+        "Ben Blacker"
+    ],
+    "Today We Learned": [
+        "Dan Casey",
+        "Razzle"
     ],
     "Top Four": [
         "Marco Arment",
