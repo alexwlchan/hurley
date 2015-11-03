@@ -25,9 +25,30 @@
     	"CGP Grey",
     	"Myke Hurley"
     ],
+    "Crybabies": [
+        "Sarah Thyre",
+        "Susan Orlean"
+    ],
+    "Denzel Washington is the Greatest Actor of All Time Period": [
+        "Kevin Avery",
+        "W. Kamau Bell"
+    ],
+    "Get Up On This": [
+        "Jensen Karp",
+        "Mathew Robinson"
+    ],
     "Hello Internet": [
         "Brady Haran",
         "CGP Grey"
+    ],
+    "Hollywood Handbook": [
+        "Hayes Davenport",
+        "Sean Clements"
+    ],
+    "How Did This Get Made?": [
+        "Jason Mantzoukas",
+        "June Diane Raphael",
+        "Paul Scheer"
     ],
     "IRL Talk": [
         "Faith Korpi",
@@ -43,10 +64,50 @@
     	"Jason Snell",
     	"Stephen Hackett"
     ],
+    "Love, Dad": [
+        "David Koechner",
+        "Jeff Ullrich"
+    ],
+    "Maltin on Movies": [
+        "Baron Vaughn",
+        "Leonard Maltin"
+    ],
     "Material": [
     	"Andy Ihnatko",
     	"Russell Ivanovic",
     	"Yasmine Evjen"
+    ],
+    "Nerd Machine's Picking Favorites": [
+        "David Coleman",
+        "Razzle",
+        "Tyler Labine",
+        "Zachary Levi"
+    ],
+    "Never Not Funny": [
+        "Jimmy Pardo",
+        "Matt Belknap"
+    ],
+    "OMFG!": [
+        "Deanna Raphael",
+        "Emily Foster"
+    ],
+    "Owen and TJ Read the News": [
+        "Adam McKay",
+        "Owen Burke"
+    ],
+    "Pod Cats": [
+        "Amber Kenny",
+        "Eddie Pepitone",
+        "Sean Conroy"
+    ],
+    "Professor Blastoff": [
+        "David Huntsberger",
+        "Kyle Dunnigan",
+        "Tig Notaro"
+    ],
+    "Question of the Day": [
+        "James Altucher",
+        "Stephen J. Dubner"
     ],
     "Reconcilable Differences": [
     	"John Siracusa",
@@ -57,9 +118,46 @@
     	"Christina Warren",
     	"Simone De Rochefort"
     ],
+    "Ronna and Beverly": [
+        "Jamie Denbo",
+        "Jessica Chaffin"
+    ],
+    "Rotten Tomatoes": [
+        "Grae Drake",
+        "Matt Atchity"
+    ],
+    "Sklarbro Country": [
+        "Jason Sklar",
+        "Randy Sklar"
+    ],
+    "The Andy Daly Podcast Pilot Project": [
+        "Andy Daly",
+        "Matt Gourley"
+    ],
+    "The Apple Sisters": [
+        "Kimmy Gatewood",
+        "Rebekka Johnson",
+        "Sarah Lowe"
+    ],
+    "The Canon": [
+        "Amy Nicholson",
+        "Devin Faraci"
+    ],
+    "The Cracked Podcast": [
+        "Jack O'Brien",
+        "Michael Swaim"
+    ],
     "The Pen Addict": [
         "Myke Hurley",
         "Brad Dowdy"
+    ],
+    "the reality SHOW show": [
+        "Hayes Davenport",
+        "Sean Clements"
+    ],
+    "The Sylvester Stallone Show": [
+        "Paul Scheer",
+        "Sylvester Stallone"
     ],
     "Thoroughly Considered": [
         "Dan Provost",
@@ -70,6 +168,18 @@
         "Marco Arment",
         "Tiffany Arment"
     ],
+    "Topics": [
+        "Michael Ian Black",
+        "Michael Showalter"
+    ],
+    "Totally Laime": [
+        "Andy Rosen",
+        "Elizabeth Laime"
+    ],
+    "U Talkin' U2 To Me?": [
+        "Adam Scott",
+        "Scott Aukerman"
+    ],
     "Upgrade": [
         "Myke Hurley",
         "Jason Snell"
@@ -77,6 +187,14 @@
     "Virtual": [
         "Myke Hurley",
         "Federico Viticci"
+    ],
+    "Who Carted?": [
+        "Howard Kremer",
+        "Kulap Vilaysack"
+    ],
+    "WOMP It Up": [
+        "Jessica St. Clair",
+        "Lennon Parham"
     ],
     "Amplified": [
     	"Jim Dalrymple",
