@@ -1,333 +1,333 @@
 {
-    "Analog(ue)": [
-        "Casey Liss",
-        "Myke Hurley"
-    ],
-    "Back to Work": [
-        "Dan Benjamin",
-        "Merlin Mann"
-    ],
-    "Bingeworthy: Mr. Robot": [
-        "Dan Benjamin",
-        "Haddie Cooke",
-        "Maggie Ball"
-    ],
-    "Bionic": [
-        "Matt Alexander",
-        "Myke Hurley"
-    ],
     "ATP": [
-        "Casey Liss",
-        "John Siracusa",
+        "Casey Liss", 
+        "John Siracusa", 
         "Marco Arment"
-    ],
-    "Bizarre States": [
-        "Andrew Bowser",
-        "Jessica Chobot"
-    ],
-    "BONANZA!": [
-        "Matt Alexander",
-        "Myke Hurley"
-    ],
-    "Chewin' It": [
-        "Kevin Heffernan",
-        "Steve Lemme"
-    ],
-    "Clockwise": [
-        "Dan Moren",
-        "Jason Snell"       
-    ],
-    "Clonecast: The Official Orphan Black Podcast": [
-        "Mackenzie Donaldson",
-        "Rob Moden"
-    ],
-    "Comic Book Club": [
-        "Alex Zalben",
-        "Justin Tyler",
-        "Pete LePage"
-    ],
-    "Connected": [
-        "Federico Viticci",
-        "Myke Hurley",
-        "Stephen Hackett"
-    ],
-    "Build and Analyze": [
-        "Dan Benjamin",
-        "Marco Arment"
-    ],
-    "Cash’s Corner": [
-        "Cash Benjamin",
-        "Dan Benjamin"
-    ],
-    "Dining with Doug and Karen": [
-        "Doug Benson",
-        "Karen Anderson"
-    ],
-    "FEaB": [
-        "Matt Mira",
-        "Scott Mosier"
-    ],
-    "Cortex": [
-        "CGP Grey",
-        "Myke Hurley"
-    ],
-    "Crybabies": [
-        "Sarah Thyre",
-        "Susan Orlean"
-    ],
-    "Denzel Washington is the Greatest Actor of All Time Period": [
-        "Kevin Avery",
-        "W. Kamau Bell"
-    ],
-    "Get Up On This": [
-        "Jensen Karp",
-        "Mathew Robinson"
-    ],
-    "Hello Internet": [
-        "Brady Haran",
-        "CGP Grey"
-    ],
-    "Hollywood Handbook": [
-        "Hayes Davenport",
-        "Sean Clements"
-    ],
-    "How Did This Get Made?": [
-        "Jason Mantzoukas",
-        "June Diane Raphael",
-        "Paul Scheer"
-    ],
-    "IRL Talk": [
-        "Faith Korpi",
-        "Jason Seifer"
-    ],
-    "Directional": [
-        "Federico Viticci",
-        "Myke Hurley"
-    ],
-    "Geek Friday": [
-        "Faith Korpi",
-        "Jason Seifer"
-    ],
-    "Hypercritical": [
-        "Dan Benjamin",
-        "John Siracusa"     
-    ],
-    "Isometric": [
-        "Brianna Wu",
-        "Georgia Dow",
-        "Maddy Myers",
-        "Steve Lubitz"
-    ],
-    "James Bonding": [
-        "Matt Gourley",
-        "Matt Mira"
-    ],
-    "Liftoff": [
-        "Jason Snell",
-        "Stephen Hackett"
-    ],
-    "Love, Dad": [
-        "David Koechner",
-        "Jeff Ullrich"
-    ],
-    "Maltin on Movies": [
-        "Baron Vaughn",
-        "Leonard Maltin"
-    ],
-    "Material": [
-        "Andy Ihnatko",
-        "Russell Ivanovic",
-        "Yasmine Evjen"
-    ],
-    "Nerd Machine's Picking Favorites": [
-        "David Coleman",
-        "Razzle",
-        "Tyler Labine",
-        "Zachary Levi"
-    ],
-    "Never Not Funny": [
-        "Jimmy Pardo",
-        "Matt Belknap"
-    ],
-    "OMFG!": [
-        "Deanna Raphael",
-        "Emily Foster"
-    ],
-    "Owen and TJ Read the News": [
-        "Adam McKay",
-        "Owen Burke"
-    ],
-    "Pod Cats": [
-        "Amber Kenny",
-        "Eddie Pepitone",
-        "Sean Conroy"
-    ],
-    "Professor Blastoff": [
-        "David Huntsberger",
-        "Kyle Dunnigan",
-        "Tig Notaro"
-    ],
-    "Question of the Day": [
-        "James Altucher",
-        "Stephen J. Dubner"
-    ],
-    "Reconcilable Differences": [
-        "John Siracusa",
-        "Merlin Mann"
-    ],
-    "Mike and Tom Eat Snacks": [
-        "Michael Ian Black",
-        "Tom Cavanagh"
-    ],
-    "Nerdist Comics Panel": [
-        "Adam Beechen",
-        "Ben Blacker",
-        "Heath Corson",
-        "Len Wein"
-    ],
-    "Nerdist Podcast": [
-        "Chris Hardwick",
-        "Jonah Ray",
-        "Matt Mira"
-    ],
-    "Pop My Culture": [
-        "Cole Stratton",
-        "Vanessa Ragland"
-    ],
-    "Overtired": [
-        "Brett Terpstra",
-        "Christina Warren"
-    ],
-    "Road Work": [
-        "Dan Benjamin",
-        "John Roderick"
-    ],
-    "Rocket": [
-        "Brianna Wu",
-        "Christina Warren",
-        "Simone De Rochefort"
-    ],
-    "Ronna and Beverly": [
-        "Jamie Denbo",
-        "Jessica Chaffin"
-    ],
-    "Rotten Tomatoes": [
-        "Grae Drake",
-        "Matt Atchity"
-    ],
-    "Sklarbro Country": [
-        "Jason Sklar",
-        "Randy Sklar"
-    ],
-    "The Andy Daly Podcast Pilot Project": [
-        "Andy Daly",
-        "Matt Gourley"
-    ],
-    "The Apple Sisters": [
-        "Kimmy Gatewood",
-        "Rebekka Johnson",
-        "Sarah Lowe"
-    ],
-    "The Canon": [
-        "Amy Nicholson",
-        "Devin Faraci"
-    ],
-    "The Cracked Podcast": [
-        "Jack O'Brien",
-        "Michael Swaim"
-    ],
-    "The Pen Addict": [
-        "Brad Dowdy",
-        "Myke Hurley"        
-    ],
-    "the reality SHOW show": [
-        "Hayes Davenport",
-        "Sean Clements"
-    ],
-    "The Sylvester Stallone Show": [
-        "Paul Scheer",
-        "Sylvester Stallone"
-    ],
-    "Thoroughly Considered": [
-        "Dan Provost",
-        "Myke Hurley",
-        "Tom Gerhardt"
-    ],
-    "Top Four": [
-        "Marco Arment",
-        "Tiffany Arment"
-    ],
-    "Topics": [
-        "Michael Ian Black",
-        "Michael Showalter"
-    ],
-    "Totally Laime": [
-        "Andy Rosen",
-        "Elizabeth Laime"
-    ],
-    "U Talkin' U2 To Me?": [
-        "Adam Scott",
-        "Scott Aukerman"
-    ],
-    "Upgrade": [
-        "Jason Snell",
-        "Myke Hurley"        
-    ],
-    "Virtual": [
-        "Myke Hurley",
-        "Federico Viticci"
-    ],
-    "Who Carted?": [
-        "Howard Kremer",
-        "Kulap Vilaysack"
-    ],
-    "WOMP It Up": [
-        "Jessica St. Clair",
-        "Lennon Parham"
-    ],
+    ], 
     "Amplified": [
-        "Dan Benjamin",
+        "Dan Benjamin", 
         "Jim Dalrymple"
-    ],
-    "Terrified": [
-        "Anna Seregina",
-        "Dave Ross"
-    ],
-    "The Indoor Kids": [
-        "Emily V Gordon",
-        "Kumail Nanjiani"
-    ],
-    "The Legacy Music Hour": [
-        "Brent Weinbach",
-        "Rob F."
-    ],
-    "The Comic Shack": [
-        "Dan Benjamin",
-        "Moisés Chiullan"       
-    ],
-    "The Frequency": [
-        "Dan Benjamin",
-        "Haddie Cooke"      
-    ],
-    "The Ihnatko Almanac": [
-        "Andy Ihnatko",
+    ], 
+    "Analog(ue)": [
+        "Casey Liss", 
+        "Myke Hurley"
+    ], 
+    "BONANZA!": [
+        "Matt Alexander", 
+        "Myke Hurley"
+    ], 
+    "Back to Work": [
+        "Dan Benjamin", 
+        "Merlin Mann"
+    ], 
+    "Bingeworthy: Mr. Robot": [
+        "Dan Benjamin", 
+        "Haddie Cooke", 
+        "Maggie Ball"
+    ], 
+    "Bionic": [
+        "Matt Alexander", 
+        "Myke Hurley"
+    ], 
+    "Bizarre States": [
+        "Andrew Bowser", 
+        "Jessica Chobot"
+    ], 
+    "Build and Analyze": [
+        "Dan Benjamin", 
+        "Marco Arment"
+    ], 
+    "Cash\u2019s Corner": [
+        "Cash Benjamin", 
         "Dan Benjamin"
-    ],
-    "The Prompt": [
-        "Federico Viticci",
-        "Myke Hurley",
+    ], 
+    "Chewin' It": [
+        "Kevin Heffernan", 
+        "Steve Lemme"
+    ], 
+    "Clockwise": [
+        "Dan Moren", 
+        "Jason Snell"
+    ], 
+    "Clonecast: The Official Orphan Black Podcast": [
+        "Mackenzie Donaldson", 
+        "Rob Moden"
+    ], 
+    "Comic Book Club": [
+        "Alex Zalben", 
+        "Justin Tyler", 
+        "Pete LePage"
+    ], 
+    "Connected": [
+        "Federico Viticci", 
+        "Myke Hurley", 
         "Stephen Hackett"
-    ],
+    ], 
+    "Cortex": [
+        "CGP Grey", 
+        "Myke Hurley"
+    ], 
+    "Crybabies": [
+        "Sarah Thyre", 
+        "Susan Orlean"
+    ], 
+    "Denzel Washington is the Greatest Actor of All Time Period": [
+        "Kevin Avery", 
+        "W. Kamau Bell"
+    ], 
+    "Dining with Doug and Karen": [
+        "Doug Benson", 
+        "Karen Anderson"
+    ], 
+    "Directional": [
+        "Federico Viticci", 
+        "Myke Hurley"
+    ], 
+    "FEaB": [
+        "Matt Mira", 
+        "Scott Mosier"
+    ], 
+    "Geek Friday": [
+        "Faith Korpi", 
+        "Jason Seifer"
+    ], 
+    "Get Up On This": [
+        "Jensen Karp", 
+        "Mathew Robinson"
+    ], 
+    "Hello Internet": [
+        "Brady Haran", 
+        "CGP Grey"
+    ], 
+    "Hollywood Handbook": [
+        "Hayes Davenport", 
+        "Sean Clements"
+    ], 
+    "How Did This Get Made?": [
+        "Jason Mantzoukas", 
+        "June Diane Raphael", 
+        "Paul Scheer"
+    ], 
+    "Hypercritical": [
+        "Dan Benjamin", 
+        "John Siracusa"
+    ], 
+    "IRL Talk": [
+        "Faith Korpi", 
+        "Jason Seifer"
+    ], 
+    "Isometric": [
+        "Brianna Wu", 
+        "Georgia Dow", 
+        "Maddy Myers", 
+        "Steve Lubitz"
+    ], 
+    "James Bonding": [
+        "Matt Gourley", 
+        "Matt Mira"
+    ], 
+    "Liftoff": [
+        "Jason Snell", 
+        "Stephen Hackett"
+    ], 
+    "Love, Dad": [
+        "David Koechner", 
+        "Jeff Ullrich"
+    ], 
+    "Maltin on Movies": [
+        "Baron Vaughn", 
+        "Leonard Maltin"
+    ], 
+    "Material": [
+        "Andy Ihnatko", 
+        "Russell Ivanovic", 
+        "Yasmine Evjen"
+    ], 
+    "Mike and Tom Eat Snacks": [
+        "Michael Ian Black", 
+        "Tom Cavanagh"
+    ], 
+    "Nerd Machine's Picking Favorites": [
+        "David Coleman", 
+        "Razzle", 
+        "Tyler Labine", 
+        "Zachary Levi"
+    ], 
+    "Nerdist Comics Panel": [
+        "Adam Beechen", 
+        "Ben Blacker", 
+        "Heath Corson", 
+        "Len Wein"
+    ], 
+    "Nerdist Podcast": [
+        "Chris Hardwick", 
+        "Jonah Ray", 
+        "Matt Mira"
+    ], 
+    "Never Not Funny": [
+        "Jimmy Pardo", 
+        "Matt Belknap"
+    ], 
+    "OMFG!": [
+        "Deanna Raphael", 
+        "Emily Foster"
+    ], 
+    "Overtired": [
+        "Brett Terpstra", 
+        "Christina Warren"
+    ], 
+    "Owen and TJ Read the News": [
+        "Adam McKay", 
+        "Owen Burke"
+    ], 
+    "Pod Cats": [
+        "Amber Kenny", 
+        "Eddie Pepitone", 
+        "Sean Conroy"
+    ], 
+    "Pop My Culture": [
+        "Cole Stratton", 
+        "Vanessa Ragland"
+    ], 
+    "Professor Blastoff": [
+        "David Huntsberger", 
+        "Kyle Dunnigan", 
+        "Tig Notaro"
+    ], 
+    "Question of the Day": [
+        "James Altucher", 
+        "Stephen J. Dubner"
+    ], 
+    "Reconcilable Differences": [
+        "John Siracusa", 
+        "Merlin Mann"
+    ], 
+    "Road Work": [
+        "Dan Benjamin", 
+        "John Roderick"
+    ], 
+    "Rocket": [
+        "Brianna Wu", 
+        "Christina Warren", 
+        "Simone De Rochefort"
+    ], 
+    "Ronna and Beverly": [
+        "Jamie Denbo", 
+        "Jessica Chaffin"
+    ], 
+    "Rotten Tomatoes": [
+        "Grae Drake", 
+        "Matt Atchity"
+    ], 
+    "Sklarbro Country": [
+        "Jason Sklar", 
+        "Randy Sklar"
+    ], 
+    "Terrified": [
+        "Anna Seregina", 
+        "Dave Ross"
+    ], 
+    "The Andy Daly Podcast Pilot Project": [
+        "Andy Daly", 
+        "Matt Gourley"
+    ], 
+    "The Apple Sisters": [
+        "Kimmy Gatewood", 
+        "Rebekka Johnson", 
+        "Sarah Lowe"
+    ], 
+    "The Canon": [
+        "Amy Nicholson", 
+        "Devin Faraci"
+    ], 
+    "The Comic Shack": [
+        "Dan Benjamin", 
+        "Mois\u00e9s Chiullan"
+    ], 
+    "The Cracked Podcast": [
+        "Jack O'Brien", 
+        "Michael Swaim"
+    ], 
+    "The Frequency": [
+        "Dan Benjamin", 
+        "Haddie Cooke"
+    ], 
+    "The Ihnatko Almanac": [
+        "Andy Ihnatko", 
+        "Dan Benjamin"
+    ], 
+    "The Indoor Kids": [
+        "Emily V Gordon", 
+        "Kumail Nanjiani"
+    ], 
+    "The Legacy Music Hour": [
+        "Brent Weinbach", 
+        "Rob F."
+    ], 
+    "The Pen Addict": [
+        "Brad Dowdy", 
+        "Myke Hurley"
+    ], 
+    "The Prompt": [
+        "Federico Viticci", 
+        "Myke Hurley", 
+        "Stephen Hackett"
+    ], 
+    "The Sylvester Stallone Show": [
+        "Paul Scheer", 
+        "Sylvester Stallone"
+    ], 
     "The Talk Show": [
-        "Dan Benjamin",
-        "John Gruber"       
-    ],    
+        "Dan Benjamin", 
+        "John Gruber"
+    ], 
+    "Thoroughly Considered": [
+        "Dan Provost", 
+        "Myke Hurley", 
+        "Tom Gerhardt"
+    ], 
     "Thrilling Adventure Hour": [
-        "Ben Acker",
+        "Ben Acker", 
         "Ben Blacker"
-    ],
+    ], 
     "Today We Learned": [
-        "Dan Casey",
+        "Dan Casey", 
         "Razzle"
+    ], 
+    "Top Four": [
+        "Marco Arment", 
+        "Tiffany Arment"
+    ], 
+    "Topics": [
+        "Michael Ian Black", 
+        "Michael Showalter"
+    ], 
+    "Totally Laime": [
+        "Andy Rosen", 
+        "Elizabeth Laime"
+    ], 
+    "U Talkin' U2 To Me?": [
+        "Adam Scott", 
+        "Scott Aukerman"
+    ], 
+    "Upgrade": [
+        "Jason Snell", 
+        "Myke Hurley"
+    ], 
+    "Virtual": [
+        "Myke Hurley", 
+        "Federico Viticci"
+    ], 
+    "WOMP It Up": [
+        "Jessica St. Clair", 
+        "Lennon Parham"
+    ], 
+    "Who Carted?": [
+        "Howard Kremer", 
+        "Kulap Vilaysack"
+    ], 
+    "the reality SHOW show": [
+        "Hayes Davenport", 
+        "Sean Clements"
     ]
 }
