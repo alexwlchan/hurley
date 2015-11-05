@@ -1,4 +1,4 @@
-# README
+# [Six Degrees of Myke Hurley](http://six-degrees-of-myke.net/)
 
 This is a quick Flask app for finding links between podcasters, a la the [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) game.  It's a bit of nonsense that I hope will make people smile.
 
