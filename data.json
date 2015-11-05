@@ -1,20 +1,45 @@
 {
+    "Amplified": [
+    	"Dan Benjamin",
+    	"Jim Dalrymple"
+    ],
     "Analog(ue)": [
-    	"Myke Hurley",
-        "Casey Liss"
+    	"Casey Liss",
+    	"Myke Hurley"
     ],
     "ATP": [
         "Casey Liss",
         "John Siracusa",
         "Marco Arment"
     ],
+    "Back to Work": [
+    	"Dan Benjamin",
+    	"Merlin Mann"
+    ],
+    "Bingeworthy: Mr. Robot": [
+    	"Dan Benjamin",
+    	"Haddie Cooke",
+    	"Maggie Ball"
+    ],
+    "Bionic": [
+    	"Matt Alexander",
+    	"Myke Hurley"
+    ],
     "BONANZA!": [
     	"Matt Alexander",
     	"Myke Hurley"
     ],
+    "Build and Analyze": [
+    	"Dan Benjamin",
+    	"Marco Arment"
+    ],
+    "Cash’s Corner": [
+    	"Cash Benjamin",
+    	"Dan Benjamin"
+    ],
     "Clockwise": [
-    	"Jason Snell",
-    	"Dan Moren"
+    	"Dan Moren",
+    	"Jason Snell"    	
     ],
     "Connected": [
     	"Federico Viticci",
@@ -25,9 +50,21 @@
     	"CGP Grey",
     	"Myke Hurley"
     ],
+    "Directional": [
+    	"Federico Viticci",
+    	"Myke Hurley"
+    ],
+    "Geek Friday": [
+    	"Faith Korpi",
+    	"Jason Seifer"
+    ],
     "Hello Internet": [
         "Brady Haran",
         "CGP Grey"
+    ],
+    "Hypercritical": [
+    	"Dan Benjamin",
+    	"John Siracusa"    	
     ],
     "IRL Talk": [
         "Faith Korpi",
@@ -48,19 +85,48 @@
     	"Russell Ivanovic",
     	"Yasmine Evjen"
     ],
+    "Overtired": [
+    	"Brett Terpstra",
+    	"Christina Warren"
+    ],
     "Reconcilable Differences": [
     	"John Siracusa",
     	"Merlin Mann"
+    ],
+    "Road Work": [
+    	"Dan Benjamin",
+    	"John Roderick"
     ],
     "Rocket": [
         "Brianna Wu",
     	"Christina Warren",
     	"Simone De Rochefort"
     ],
-    "The Pen Addict": [
-        "Myke Hurley",
-        "Brad Dowdy"
+    "The Comic Shack": [
+    	"Dan Benjamin",
+    	"Moisés Chiullan"    	
     ],
+    "The Frequency": [
+    	"Dan Benjamin",
+    	"Haddie Cooke"    	
+    ],
+    "The Ihnatko Almanac": [
+    	"Andy Ihnatko",
+    	"Dan Benjamin"
+    ],
+    "The Pen Addict": [
+        "Brad Dowdy",
+        "Myke Hurley"        
+    ],
+    "The Prompt": [
+    	"Federico Viticci",
+    	"Myke Hurley",
+    	"Stephen Hackett"
+    ],
+    "The Talk Show": [
+    	"Dan Benjamin",
+    	"John Gruber"    	
+    ],    
     "Thoroughly Considered": [
         "Dan Provost",
         "Myke Hurley",
@@ -71,77 +137,11 @@
         "Tiffany Arment"
     ],
     "Upgrade": [
-        "Myke Hurley",
-        "Jason Snell"
+        "Jason Snell",
+        "Myke Hurley"        
     ],
     "Virtual": [
         "Myke Hurley",
         "Federico Viticci"
-    ],
-    "Amplified": [
-    	"Jim Dalrymple",
-    	"Dan Benjamin"
-    ],
-    "Back to Work": [
-    	"Merlin Mann",
-    	"Dan Benjamin"
-    ],
-    "Bingeworthy: Mr. Robot": [
-    	"Haddie Cooke",
-    	"Maggie Ball",
-    	"Dan Benjamin"
-    ],
-    "Cash’s Corner": [
-    	"Cash Benjamin",
-    	"Dan Benjamin"
-    ],
-    "The Frequency": [
-    	"Haddie Cooke",
-    	"Dan Benjamin"
-    ],
-    "The Ihnatko Almanac": [
-    	"Andy Ihnatko",
-    	"Dan Benjamin"
-    ],
-    "Road Work": [
-    	"John Roderick",
-    	"Dan Benjamin"
-    ],
-    "Bionic": [
-    	"Matt Alexander",
-    	"Myke Hurley"
-    ],
-    "Build and Analyze": [
-    	"Marco Arment",
-    	"Dan Benjamin"
-    ],
-    "The Comic Shack": [
-    	"Moisés Chiullan",
-    	"Dan Benjamin"
-    ],
-    "Directional": [
-    	"Federico Viticci",
-    	"Myke Hurley"
-    ],
-    "Geek Friday": [
-    	"Faith Korpi",
-    	"Jason Seifer"
-    ],
-    "Hypercritical": [
-    	"John Siracusa",
-    	"Dan Benjamin"
-    ],
-    "Overtired": [
-    	"Brett Terpstra",
-    	"Christina Warren"
-    ],
-    "The Prompt": [
-    	"Federico Viticci",
-    	"Myke Hurley",
-    	"Stephen Hackett"
-    ],
-    "The Talk Show": [
-    	"John Gruber",
-    	"Dan Benjamin"
     ]
 }
