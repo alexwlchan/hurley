@@ -155,6 +155,22 @@
         "Myke Hurley",
         "Tom Gerhardt"
     ],
+    "Top Four": [
+        "Marco Arment",
+        "Tiffany Arment"
+    ],
+    "Upgrade": [
+        "Jason Snell",
+        "Myke Hurley"        
+    ],
+    "Virtual": [
+        "Myke Hurley",
+        "Federico Viticci"
+    ],
+    "Amplified": [
+        "Dan Benjamin",
+        "Jim Dalrymple"
+    ],
     "Terrified": [
         "Anna Seregina",
         "Dave Ross"
@@ -195,21 +211,5 @@
     "Today We Learned": [
         "Dan Casey",
         "Razzle"
-    ],
-    "Top Four": [
-        "Marco Arment",
-        "Tiffany Arment"
-    ],
-    "Upgrade": [
-        "Jason Snell",
-        "Myke Hurley"        
-    ],
-    "Virtual": [
-        "Myke Hurley",
-        "Federico Viticci"
-    ],
-    "Amplified": [
-        "Dan Benjamin",
-        "Jim Dalrymple"
     ]
 }
