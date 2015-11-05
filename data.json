@@ -1,8 +1,4 @@
 {
-    "Amplified": [
-        "Dan Benjamin",
-        "Jim Dalrymple"
-    ],
     "Analog(ue)": [
         "Casey Liss",
         "Myke Hurley"
@@ -63,10 +59,6 @@
         "Cash Benjamin",
         "Dan Benjamin"
     ],
-    "Cortex": [
-        "CGP Grey",
-        "Myke Hurley"
-    ],
     "Dining with Doug and Karen": [
         "Doug Benson",
         "Karen Anderson"
@@ -75,9 +67,17 @@
         "Matt Mira",
         "Scott Mosier"
     ],
+    "Cortex": [
+        "CGP Grey",
+        "Myke Hurley"
+    ],
     "Hello Internet": [
         "Brady Haran",
         "CGP Grey"
+    ],
+    "IRL Talk": [
+        "Faith Korpi",
+        "Jason Seifer"
     ],
     "Directional": [
         "Federico Viticci",
@@ -90,10 +90,6 @@
     "Hypercritical": [
         "Dan Benjamin",
         "John Siracusa"     
-    ],
-    "IRL Talk": [
-        "Faith Korpi",
-        "Jason Seifer"
     ],
     "Isometric": [
         "Brianna Wu",
@@ -114,6 +110,10 @@
         "Russell Ivanovic",
         "Yasmine Evjen"
     ],
+    "Reconcilable Differences": [
+        "John Siracusa",
+        "Merlin Mann"
+    ],
     "Mike and Tom Eat Snacks": [
         "Michael Ian Black",
         "Tom Cavanagh"
@@ -133,10 +133,6 @@
         "Cole Stratton",
         "Vanessa Ragland"
     ],
-    "Reconcilable Differences": [
-        "John Siracusa",
-        "Merlin Mann"
-    ],
     "Overtired": [
         "Brett Terpstra",
         "Christina Warren"
@@ -150,6 +146,15 @@
         "Christina Warren",
         "Simone De Rochefort"
     ],
+    "The Pen Addict": [
+        "Brad Dowdy",
+        "Myke Hurley"        
+    ],
+    "Thoroughly Considered": [
+        "Dan Provost",
+        "Myke Hurley",
+        "Tom Gerhardt"
+    ],
     "Terrified": [
         "Anna Seregina",
         "Dave Ross"
@@ -161,10 +166,6 @@
     "The Legacy Music Hour": [
         "Brent Weinbach",
         "Rob F."
-    ],
-    "The Pen Addict": [
-        "Brad Dowdy",
-        "Myke Hurley"        
     ],
     "The Comic Shack": [
         "Dan Benjamin",
@@ -187,11 +188,6 @@
         "Dan Benjamin",
         "John Gruber"       
     ],    
-    "Thoroughly Considered": [
-        "Dan Provost",
-        "Myke Hurley",
-        "Tom Gerhardt"
-    ],
     "Thrilling Adventure Hour": [
         "Ben Acker",
         "Ben Blacker"
@@ -211,5 +207,9 @@
     "Virtual": [
         "Myke Hurley",
         "Federico Viticci"
+    ],
+    "Amplified": [
+        "Dan Benjamin",
+        "Jim Dalrymple"
     ]
 }
