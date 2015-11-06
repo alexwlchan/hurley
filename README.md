@@ -22,6 +22,6 @@ If you want to expand the list of podcasts, you should edit `data.json`. Each po
 ]
 ```
 
-Please keep the host names alphabetically ordered, and likewise the podcasts. (I'm aware that's not quite true at the moment; I'll fix it soon, promise!)
+Please keep the host names alphabetically ordered, and likewise the podcasts.
 
 Currently I have all the Relay.FM and 5by5 shows, plus a few others. More are always welcome. :-)
