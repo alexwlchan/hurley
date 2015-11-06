@@ -1,9 +1,4 @@
 {
-    "ATP": [
-        "Casey Liss", 
-        "John Siracusa", 
-        "Marco Arment"
-    ], 
     "Amplified": [
         "Dan Benjamin", 
         "Jim Dalrymple"
@@ -12,9 +7,10 @@
         "Casey Liss", 
         "Myke Hurley"
     ], 
-    "BONANZA!": [
-        "Matt Alexander", 
-        "Myke Hurley"
+    "ATP": [
+        "Casey Liss", 
+        "John Siracusa", 
+        "Marco Arment"
     ], 
     "Back to Work": [
         "Dan Benjamin", 
@@ -32,6 +28,10 @@
     "Bizarre States": [
         "Andrew Bowser", 
         "Jessica Chobot"
+    ], 
+    "BONANZA!": [
+        "Matt Alexander", 
+        "Myke Hurley"
     ], 
     "Build and Analyze": [
         "Dan Benjamin", 
@@ -147,12 +147,6 @@
         "Michael Ian Black", 
         "Tom Cavanagh"
     ], 
-    "Nerd Machine's Picking Favorites": [
-        "David Coleman", 
-        "Razzle", 
-        "Tyler Labine", 
-        "Zachary Levi"
-    ], 
     "Nerdist Comics Panel": [
         "Adam Beechen", 
         "Ben Blacker", 
@@ -164,6 +158,12 @@
         "Jonah Ray", 
         "Matt Mira"
     ], 
+    "Nerd Machine's Picking Favorites": [
+        "David Coleman", 
+        "Razzle", 
+        "Tyler Labine", 
+        "Zachary Levi"
+    ],     
     "Never Not Funny": [
         "Jimmy Pardo", 
         "Matt Belknap"
@@ -272,6 +272,10 @@
         "Federico Viticci", 
         "Myke Hurley", 
         "Stephen Hackett"
+    ],     
+    "the reality SHOW show": [
+        "Hayes Davenport", 
+        "Sean Clements"
     ], 
     "The Sylvester Stallone Show": [
         "Paul Scheer", 
@@ -306,13 +310,13 @@
         "Andy Rosen", 
         "Elizabeth Laime"
     ], 
-    "U Talkin' U2 To Me?": [
-        "Adam Scott", 
-        "Scott Aukerman"
-    ], 
     "Upgrade": [
         "Jason Snell", 
         "Myke Hurley"
+    ], 
+    "U Talkin' U2 To Me?": [
+        "Adam Scott", 
+        "Scott Aukerman"
     ], 
     "Virtual": [
         "Myke Hurley", 
@@ -325,9 +329,5 @@
     "Who Carted?": [
         "Howard Kremer", 
         "Kulap Vilaysack"
-    ], 
-    "the reality SHOW show": [
-        "Hayes Davenport", 
-        "Sean Clements"
     ]
 }
