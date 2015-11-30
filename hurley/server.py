@@ -8,8 +8,9 @@ from hurley.podcasts import pairings, podcasters, graph, find_links
 
 
 app = Flask(__name__)
+key = 'no really tis must dosidhksjdfgnvkyjrhmstbgnemr,test secret key'
 app.config['WTF_CSRF_ENABLED'] = True
-app.config['SECRET_KEY'] = 'no really tis must dosidhksjdfgnvkyjrhmstbgnemr,test secret key'
+app.config['SECRET_KEY'] = key
 
 
 MYCACHE = {}
@@ -27,7 +28,9 @@ def hello_world():
     result = None
     print MYCACHE
     if form.validate_on_submit() and form.src.data and form.dst.data:
-        pairings = MYCACHE.setdefault((form.src.data, form.dst.data), graph.dijkstra(form.src.data, form.dst.data))
+        pairings = MYCACHE.setdefault((form.src.data, form.dst.data),
+                                      graph.dijkstra(form.src.data,
+                                      form.dst.data))
         if form.src.data == form.dst.data:
             result = ['identical']
         elif len(pairings) == 1:
@@ -41,9 +44,11 @@ def hello_world():
                            dst=form.dst.data,
                            result=result)
 
+
 @app.route('/about')
 def about():
     return render_template('about.html', title="About")
+
 
 @app.route('/privacy')
 def privacy():

@@ -18,6 +18,7 @@ pairings = list(pairings)
 
 graph = Graph(pairings)
 
+
 def find_links(result):
     pairings = []
     for i in xrange(len(result) - 1):

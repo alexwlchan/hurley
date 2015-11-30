@@ -5,6 +5,7 @@ shortest path between podcast hosts.
 
 Heavily cribbed from http://rosettacode.org/wiki/Dijkstra%27s_algorithm#Python
 """
+
 from collections import namedtuple, deque
 import itertools
 import json
@@ -13,6 +14,7 @@ from pprint import pprint as pp
 
 inf = float('inf')
 Edge = namedtuple('Edge', ['start', 'end'])
+
 
 class Graph():
     def __init__(self, edges):
@@ -28,7 +30,7 @@ class Graph():
         neighbours = {vertex: set() for vertex in self.vertices}
         for start, end in self.edges:
             neighbours[start].add((end, 1))
-        #pp(neighbours)
+        # pp(neighbours)
 
         while q:
             u = min(q, key=lambda vertex: dist[vertex])
@@ -37,10 +39,10 @@ class Graph():
                 break
             for v, cost in neighbours[u]:
                 alt = dist[u] + cost
-                if alt < dist[v]:                                  # Relax (u,v,a)
+                if alt < dist[v]:  # Relax (u,v,a)
                     dist[v] = alt
                     previous[v] = u
-        #pp(previous)
+        # pp(previous)
         s, u = deque(), dest
         while previous[u]:
             s.appendleft(u)
