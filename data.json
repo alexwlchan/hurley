@@ -58,6 +58,9 @@
         "Justin Tyler", 
         "Pete LePage"
     ], 
+    "Common Sense": [
+        "Dan Carlin"
+    ], 
     "Connected": [
         "Federico Viticci", 
         "Myke Hurley", 
@@ -98,6 +101,9 @@
     "Get Up On This": [
         "Jensen Karp", 
         "Mathew Robinson"
+    ], 
+    "Hardcore History": [
+        "Dan Carlin"
     ], 
     "Hello Internet": [
         "Brady Haran", 
@@ -184,6 +190,13 @@
         "Adam McKay", 
         "Owen Burke"
     ], 
+    "Planet Money": [
+        "David Kestenbaum",
+        "Jacob Goldstein",
+        "Robert Smith",
+        "Stacey Vanek Smith",
+        "Steve Henn"
+    ], 
     "Pod Cats": [
         "Amber Kenny", 
         "Eddie Pepitone", 
@@ -201,6 +214,10 @@
     "Question of the Day": [
         "James Altucher", 
         "Stephen J. Dubner"
+    ], 
+    "Radiolab": [
+        "Jad Abumrad",
+        "Robert Krulwich"
     ], 
     "Reconcilable Differences": [
         "John Siracusa", 
