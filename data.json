@@ -71,6 +71,10 @@
         "Sarah Thyre", 
         "Susan Orlean"
     ], 
+    "Dear Hank & John": [
+        "Hank Green",
+        "John Green"
+    ],
     "Denzel Washington is the Greatest Actor of All Time Period": [
         "Kevin Avery", 
         "W. Kamau Bell"
@@ -202,6 +206,10 @@
         "John Siracusa", 
         "Merlin Mann"
     ], 
+    "Reply All": [
+        "Alex Goldman",
+        "PJ Vogt"
+    ], 
     "Road Work": [
         "Dan Benjamin", 
         "John Roderick"
@@ -223,6 +231,14 @@
         "Jason Sklar", 
         "Randy Sklar"
     ], 
+    "StartUp": [
+        "Alex Blumberg",
+        "Lisa Chow"
+    ], 
+    "Surprisingly Awesome": [
+        "Adam Davidson",
+        "Adam McKay"
+    ],
     "Terrified": [
         "Anna Seregina", 
         "Dave Ross"
