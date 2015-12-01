@@ -1,3 +1,6 @@
+<style type="text/css">
+div {text-align:center;}
+</style>
 {% extends "base.html" %}
 
 {% block content %}
@@ -19,7 +22,6 @@
           <p><input type="submit" value="Connect!" class="btn btn-primary"></p>
         </form>
 
-    <center>
         {% if result %}
         <div class="result">
         <hr>
@@ -39,5 +41,4 @@
           {% endif %}
         </div>
         {% endif %}
-    </center>
 {% endblock %}
