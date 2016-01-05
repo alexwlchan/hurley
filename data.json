@@ -1,4 +1,7 @@
 {
+    "99% invisible": [
+        "Roman Mars"
+    ],
     "Amplified": [
         "Dan Benjamin", 
         "Jim Dalrymple"
@@ -70,6 +73,11 @@
         "CGP Grey", 
         "Myke Hurley"
     ], 
+    "Criminal": [
+        "Eric Mennel",
+        "Lauren Spohrer",
+        "Phoebe Judge"
+    ],
     "Crybabies": [
         "Sarah Thyre", 
         "Susan Orlean"
@@ -144,6 +152,9 @@
         "David Koechner", 
         "Jeff Ullrich"
     ], 
+    "Love + Radio": [
+        "Nick van der Kolk"
+    ],
     "Maltin on Movies": [
         "Baron Vaughn", 
         "Leonard Maltin"
@@ -215,6 +226,10 @@
         "James Altucher", 
         "Stephen J. Dubner"
     ], 
+    "Radio Diaries": [
+        "Joe Richman",
+        "Sarah Kate Kramer"
+    ],
     "Radiolab": [
         "Jad Abumrad",
         "Robert Krulwich"
@@ -247,11 +262,20 @@
     "Sklarbro Country": [
         "Jason Sklar", 
         "Randy Sklar"
-    ], 
+    ],
+    "Song Explorer": [
+        "Hrishikesh Hirway"
+    ],
     "StartUp": [
         "Alex Blumberg",
         "Lisa Chow"
     ], 
+    "Story Central": [
+        "Lea Thau"
+    ],
+    "Strangers": [
+        "Lea Thau"
+    ],
     "Surprisingly Awesome": [
         "Adam Davidson",
         "Adam McKay"
@@ -260,6 +284,9 @@
         "Anna Seregina", 
         "Dave Ross"
     ], 
+    "The Allusionist": [
+        "Helen Zaltzman"
+    ],
     "The Andy Daly Podcast Pilot Project": [
         "Andy Daly", 
         "Matt Gourley"
@@ -285,6 +312,9 @@
         "Dan Benjamin", 
         "Haddie Cooke"
     ], 
+    "The Heart": [
+        "Kaitlin Prest"
+    ],
     "The Ihnatko Almanac": [
         "Andy Ihnatko", 
         "Dan Benjamin"
@@ -297,6 +327,13 @@
         "Brent Weinbach", 
         "Rob F."
     ], 
+    "Theory of Everything": [
+        "Benjamen Walker"
+    ],
+    "The Kitchen Sisters": [
+        "Davia Nelson",
+        "Nikki Silva"
+    ],
     "The Pen Addict": [
         "Brad Dowdy", 
         "Myke Hurley"
@@ -309,7 +346,10 @@
     "the reality SHOW show": [
         "Hayes Davenport", 
         "Sean Clements"
-    ], 
+    ],
+    "the radio palace": [
+        "Nate DiMeo"
+    ],
     "The Sylvester Stallone Show": [
         "Paul Scheer", 
         "Sylvester Stallone"
@@ -317,7 +357,12 @@
     "The Talk Show": [
         "Dan Benjamin", 
         "John Gruber"
-    ], 
+    ],
+    "The Truth": [
+        "Alejandro Kolleeny",
+        "Diana McCorry",
+        "Louis Kornfeld"
+    ],
     "Thoroughly Considered": [
         "Dan Provost", 
         "Myke Hurley", 
