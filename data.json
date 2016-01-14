@@ -70,6 +70,11 @@
         "CGP Grey", 
         "Myke Hurley"
     ], 
+    "Criminal": [
+        "Eric Mennel",
+        "Lauren Spohrer",
+        "Phoebe Judge"
+    ],
     "Crybabies": [
         "Sarah Thyre", 
         "Susan Orlean"
@@ -215,6 +220,10 @@
         "James Altucher", 
         "Stephen J. Dubner"
     ], 
+    "Radio Diaries": [
+        "Joe Richman",
+        "Sarah Kate Kramer"
+    ],
     "Radiolab": [
         "Jad Abumrad",
         "Robert Krulwich"
@@ -247,7 +256,7 @@
     "Sklarbro Country": [
         "Jason Sklar", 
         "Randy Sklar"
-    ], 
+    ],
     "StartUp": [
         "Alex Blumberg",
         "Lisa Chow"
@@ -296,7 +305,11 @@
     "The Legacy Music Hour": [
         "Brent Weinbach", 
         "Rob F."
-    ], 
+    ],
+    "The Kitchen Sisters": [
+        "Davia Nelson",
+        "Nikki Silva"
+    ],
     "The Pen Addict": [
         "Brad Dowdy", 
         "Myke Hurley"
@@ -309,7 +322,7 @@
     "the reality SHOW show": [
         "Hayes Davenport", 
         "Sean Clements"
-    ], 
+    ],
     "The Sylvester Stallone Show": [
         "Paul Scheer", 
         "Sylvester Stallone"
@@ -317,7 +330,12 @@
     "The Talk Show": [
         "Dan Benjamin", 
         "John Gruber"
-    ], 
+    ],
+    "The Truth": [
+        "Alejandro Kolleeny",
+        "Diana McCorry",
+        "Louis Kornfeld"
+    ],
     "Thoroughly Considered": [
         "Dan Provost", 
         "Myke Hurley", 
