@@ -1,4 +1,9 @@
 {
+    "All About Android": [
+       "Florence Ion", 
+       "Jason Howell", 
+       "Ron Richards"
+    ], 
     "Amplified": [
         "Dan Benjamin", 
         "Jim Dalrymple"
@@ -7,6 +12,9 @@
         "Casey Liss", 
         "Myke Hurley"
     ], 
+    "Android App Arena": [
+        "Jason Howell"
+    ],
     "ATP": [
         "Casey Liss", 
         "John Siracusa", 
@@ -99,6 +107,10 @@
         "Matt Mira", 
         "Scott Mosier"
     ], 
+    "FLOSS Weekly": [
+        "Aaron Newcomb", 
+        "Randal Schwartz"
+    ], 
     "Geek Friday": [
         "Faith Korpi", 
         "Jason Seifer"
@@ -110,6 +122,15 @@
     "Hardcore History": [
         "Dan Carlin"
     ], 
+    "Ham Nation": [
+       "Amanda Alden", 
+       "Bob Heil", 
+       "Dale Puckett", 
+       "Don Wilbanks", 
+       "George Thomas", 
+       "Gordon West", 
+       "Valeria Hotzfeld"
+    ], 
     "Hello Internet": [
         "Brady Haran", 
         "CGP Grey"
@@ -117,6 +138,9 @@
     "Hollywood Handbook": [
         "Hayes Davenport", 
         "Sean Clements"
+    ], 
+    "Home Theater Geeks": [
+       "Scott Wilkinson" 
     ], 
     "How Did This Get Made?": [
         "Jason Mantzoukas", 
@@ -126,6 +150,10 @@
     "Hypercritical": [
         "Dan Benjamin", 
         "John Siracusa"
+    ], 
+    "iOS Today": [
+       "Leo Laporte", 
+       "Megan Morrone"
     ], 
     "IRL Talk": [
         "Faith Korpi", 
@@ -141,6 +169,10 @@
         "Matt Gourley", 
         "Matt Mira"
     ], 
+    "Know How...": [
+        "Bryan Burnett", 
+        "Fr. Robert Ballecer, SJ"
+    ], 
     "Liftoff": [
         "Jason Snell", 
         "Stephen Hackett"
@@ -148,6 +180,12 @@
     "Love, Dad": [
         "David Koechner", 
         "Jeff Ullrich"
+    ], 
+    "MacBreak Weekly": [
+       "Andy Ihnatko", 
+       "Alex Lindsay", 
+       "Leo Laporte", 
+       "Rene Ritche"
     ], 
     "Maltin on Movies": [
         "Baron Vaughn", 
@@ -253,6 +291,10 @@
         "Grae Drake", 
         "Matt Atchity"
     ], 
+    "Security Now": [
+       "Leo Laporte",
+       "Steve Gibson"
+    ], 
     "Sklarbro Country": [
         "Jason Sklar", 
         "Randy Sklar"
@@ -265,6 +307,10 @@
         "Adam Davidson",
         "Adam McKay"
     ],
+    "Tech News Today": [
+        "Jason Howell", 
+        "Megan Morrone"
+    ], 
     "Terrified": [
         "Anna Seregina", 
         "Dave Ross"
@@ -310,6 +356,9 @@
         "Davia Nelson",
         "Nikki Silva"
     ],
+    "The New Screen Savers": [
+       "Leo Laporte" 
+    ], 
     "The Pen Addict": [
         "Brad Dowdy", 
         "Myke Hurley"
@@ -331,11 +380,34 @@
         "Dan Benjamin", 
         "John Gruber"
     ],
+    "The Tech Guy": [
+        "Leo Laporte"
+    ], 
     "The Truth": [
         "Alejandro Kolleeny",
         "Diana McCorry",
         "Louis Kornfeld"
     ],
+    "This Week In Computer Hardware": [
+       "Patrick Norton", 
+       "Ryan Shrout"
+    ],
+    "This Week in Enterprise Tech": [
+        "Brian Chee", 
+        "Curt Franklin", 
+        "Fr. Robert Ballecer, SJ", 
+        "Louis Maresca"
+    ], 
+    "This Week in Google": [
+       "Jeff Jarvis", 
+       "Leo Laporte"
+    ], 
+    "This Week in Tech": [
+       "Denise Howell"
+    ], 
+    "This Week in Tech": [
+       "Leo Laporte"
+    ], 
     "Thoroughly Considered": [
         "Dan Provost", 
         "Myke Hurley", 
@@ -361,6 +433,9 @@
         "Andy Rosen", 
         "Elizabeth Laime"
     ], 
+    "Triangulation": [
+       "Leo Laporte" 
+    ], 
     "Upgrade": [
         "Jason Snell", 
         "Myke Hurley"
@@ -372,6 +447,11 @@
     "Virtual": [
         "Myke Hurley", 
         "Federico Viticci"
+    ], 
+    "Windows Weekly": [
+       "Leo Laporte", 
+       "Mary Jo Foley", 
+       "Paul Thurrott"
     ], 
     "WOMP It Up": [
         "Jessica St. Clair", 
